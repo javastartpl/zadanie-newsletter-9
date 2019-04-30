@@ -1,6 +1,6 @@
 package com.zdzislaw.model;
 
-public interface ITextFormatter{
+public interface ITextFormatter {
 
-     String modifyText(String text);
+    String modifyText(String text);
 }
